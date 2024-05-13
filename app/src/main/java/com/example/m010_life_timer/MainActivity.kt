@@ -123,7 +123,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun stopTimerThread() {
-//        timerThreadStop = true
+        timerThreadStop = true
         timerThread.interrupt()
     }
 
