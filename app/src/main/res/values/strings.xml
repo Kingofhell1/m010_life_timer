@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">m010_life_timer</string>
+    <string name="button_text_start">START</string>
+    <string name="button_text_stop">STOP</string>
+    <string name="count_timer">10</string>
+    <string name="text_view">Countdown Timer</string>
+</resources>
